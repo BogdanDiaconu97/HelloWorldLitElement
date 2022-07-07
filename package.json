@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@vaadin/router": "^1.7.4",
+    "@web/dev-server": "^0.1.32",
+    "lit-element": "^3.2.1",
+    "rollup": "^2.75.7"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "arrowParens": "avoid"
+  },
+  "scripts": {
+    "start": "web-dev-server --app-index index.html"
+  }
+}
